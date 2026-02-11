@@ -66,7 +66,7 @@ Client-focused web system integrating APIs and structured accounting data into d
 - Model Deployment
 - Financial Forecasting Models
 - Scalable Data Architectures
-- Java
+- Intermediate Java for Machine Learning
 
 ---
 
