@@ -1,10 +1,10 @@
-# Hi, I'm Marcell Marinka 👋  
+# Hi, I'm Marcell Marinka👋  
 💼 Data Scientist | Data Analyst  
 📊 Economic & Accounting Data Specialist  
 
 ---
 
-## 👋 About Me
+## 👋 A Little About Me
 
 I work at the intersection of data, finance, and technology — building ETL pipelines, dashboards, and machine learning models around economic and accounting data.
 Beyond data, I’m deeply interested in economics and investing, and I spend my free time reading sci-fi, history, and manga.
@@ -22,7 +22,7 @@ Beyond data, I’m deeply interested in economics and investing, and I spend my 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Used Tech Stack
 **Languages:** Python | SQL | Java  
 **Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel  
 **ML:** Regression | Classification | Credit Risk | Time Series  
@@ -30,7 +30,7 @@ Beyond data, I’m deeply interested in economics and investing, and I spend my 
 
 ---
 
-## 📊 Selected Projects
+## 📊 My Favourite Projects
 
 ### 🔹 [AI Art Demand Analyzer](https://github.com/MrBigJupiter/ArtDemandAI)
 API-driven demand analysis tool using Reddit data and NLP to identify emerging art trends for investors.
@@ -72,7 +72,7 @@ Client-focused web system integrating APIs and structured accounting data into d
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [Add link](https://www.linkedin.com/in/marinka-marcell-311961243/)
-- 🌐 Portfolio: [Add link](https://github.com/MrBigJupiter)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marinka-marcell-311961243/)
+- 🌐 Portfolio: [Github](https://github.com/MrBigJupiter)
 - 📧 Email: mmarcell2003@gmail.com
 
