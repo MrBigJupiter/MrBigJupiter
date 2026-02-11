@@ -54,7 +54,7 @@ Client-focused web system integrating APIs and structured accounting data into d
 
 ✔ Turning messy financial data into structured decision systems  
 ✔ Building scalable ETL pipelines  
-✔ Connecting building APIs for business use 
+✔ Connecting building APIs for business use <br>
 ✔ Make leaders understand their accounting data with BI tools  
 ✔ Designing ML systems that solve real business problems  
 
