@@ -25,7 +25,7 @@ Beyond data, I’m deeply interested in economics and investing, and I spend my 
 ## 🛠 My Used Tech Stack
 **Languages:** Python | SQL | Java  
 **Analytics:** Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel  
-**ML:** Regression | Classification | Credit Risk | Time Series  
+**ML:** Scikit-Learn | Langchain | Regression | Classification | Credit Risk | Time Series  
 **Data Engineering:** ETL | APIs | Data Modeling | DDS Systems  
 
 ---
