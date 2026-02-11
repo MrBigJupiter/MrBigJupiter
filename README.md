@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Marcell Marinka 👋  
 💼 Data Scientist | Data Analyst  
 📊 Economic & Accounting Data Specialist  
 
